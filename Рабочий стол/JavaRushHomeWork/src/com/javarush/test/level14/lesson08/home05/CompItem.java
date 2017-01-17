@@ -3,4 +3,6 @@ package com.javarush.test.level14.lesson08.home05;
 /**
  * Created by ruslan on 18.12.16.
  */
-public interface CompItem { }
+public interface CompItem {
+    String getName();
+}
