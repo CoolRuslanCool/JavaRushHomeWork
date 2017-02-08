@@ -2,15 +2,16 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="$USER_HOME$/Рабочий стол/JavaRushTasks" />
         <option value="$USER_HOME$/Рабочий стол/JavaRushHomeWork" />
       </list>
     </option>
     <option name="openPaths">
       <list>
-        <option value="$USER_HOME$/Рабочий стол/JavaRushHomeWork" />
+        <option value="$USER_HOME$/Рабочий стол/JavaRushTasks" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/Рабочий стол/JavaRushHomeWork" />
+    <option name="lastPath" value="$USER_HOME$/Рабочий стол/JavaRushTasks" />
     <option name="additionalInfo">
       <map>
         <entry key="$USER_HOME$/Рабочий стол/JavaRushHomeWork">
@@ -19,7 +20,18 @@
               <option name="build" value="IC-162.2228.15" />
               <option name="productionCode" value="IC" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1484641294505" />
+              <option name="projectOpenTimestamp" value="1486492713564" />
+              <option name="buildTimestamp" value="1476392400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Рабочий стол/JavaRushTasks">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-162.2228.15" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1486549205713" />
               <option name="buildTimestamp" value="1476392400000" />
             </RecentProjectMetaInfo>
           </value>
