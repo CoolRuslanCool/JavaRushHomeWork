@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 /**
  * Created by ruslan on 28.02.17.
  */
-public class ConsoleHelper {
+class ConsoleHelper {
     private static BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
 
     public static void writeMessage(String message) {
